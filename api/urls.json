@@ -1,8 +1,20 @@
 {
-    "urls": [
-        {
-            "name": "GitHub:codebyaz",
-            "url": "https://github.com/codebyaz"
-        }
-    ]
+  "urls": [
+    {
+      "name": "GitHub:codebyaz",
+      "url": "https://github.com/codebyaz"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://linkedin.com"
+    },
+    {
+      "name": "GitHub:cvazeredo",
+      "url": "https://github.com/cvazeredo"
+    },
+    {
+      "name": "Linkedin:profile",
+      "url": "https://linkedin.com/in/andre-azeredo/"
+    }
+  ]
 }
